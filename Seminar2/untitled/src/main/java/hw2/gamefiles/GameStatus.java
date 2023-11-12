@@ -1,2 +1,5 @@
-package hw2.gamefiles;public enum GameStatus {
+package hw2.gamefiles;
+
+public enum GameStatus {
+    INIT, START, FINISH;
 }
